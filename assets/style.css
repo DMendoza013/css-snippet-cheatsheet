@@ -1,0 +1,12 @@
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    flex: 1 0 200px;
+    padding: 10px;
+    text-align: center;
+    border-style: dashed;
+    border-width: 1px;
+  }
